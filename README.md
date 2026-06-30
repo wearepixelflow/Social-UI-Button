@@ -1,5 +1,4 @@
 # Social-UI-Button
-This repo contains the copy-paste source  code for the socal Hover CTA Button
 
 <p>
   🚀 Follow <a href="https://www.instagram.com/wearepixelflow/" target="_blank"><strong>@wearepixelflow</strong></a> on Instagram for more premium UI animations and web development content.
